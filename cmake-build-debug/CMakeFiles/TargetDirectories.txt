@@ -1,0 +1,3 @@
+/Users/benjaminwendt/CLionProjects/PlayWithMatthis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/benjaminwendt/CLionProjects/PlayWithMatthis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/benjaminwendt/CLionProjects/PlayWithMatthis/cmake-build-debug/CMakeFiles/PlayWithMatthis.dir
